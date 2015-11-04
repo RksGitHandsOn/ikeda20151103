@@ -7,4 +7,5 @@
 編集２
 です。
 
+hogehoge
 fugafuga
