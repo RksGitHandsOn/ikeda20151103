@@ -8,3 +8,4 @@
 です。
 
 hogehoge
+fugafuga
